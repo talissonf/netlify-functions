@@ -1,0 +1,16 @@
+{
+  "name": "storefront-css-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Talisson Ferreira <talissonf@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@ecomplus/storefront-template": "^2.0.0-beta.91",
+    "sass": "^1.29.0"
+  }
+}

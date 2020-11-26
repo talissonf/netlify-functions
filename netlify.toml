@@ -1,0 +1,10 @@
+[build]
+  publish = "publish"
+  functions = "functions-zip"
+
+[dev]
+  functions = "./functions"
+
+[[redirects]]
+  from = "/css/*"
+  to = "./functions/css"
