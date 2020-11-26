@@ -1,6 +1,5 @@
 [build]
-  publish = "publish"
-  functions = "functions-zip"
+  functions = "./functions"
 
 [dev]
   functions = "./functions"
