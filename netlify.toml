@@ -7,3 +7,6 @@
 [[redirects]]
   from = "/css/*"
   to = "./functions/css"
+
+[[plugins]]
+  package = "@netlify/plugin-functions-install-core"
